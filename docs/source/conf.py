@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = '14365 Programmer Documentation'
 copyright = '2024, Logan Miller'
 author = 'Logan Miller'
 
